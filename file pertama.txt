@@ -11,3 +11,5 @@ Final Project
 Menambahkan file dalam github disebut dengan add (git add)
 Menandai file yang disebut commit (git commit)
 Upload file yang disebut push (git push)
+
+tambah
