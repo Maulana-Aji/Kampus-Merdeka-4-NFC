@@ -1,10 +1,12 @@
 Rincian materi kampus merdeka batch 4
-HTML dan CSS
+Web Design
 Javascript
 GitHub
 PHP
 MySQL
 Laravel
+Rest API
+Final Project
 
 Menambahkan file dalam github disebut dengan add (git add)
 Menandai file yang disebut commit (git commit)
